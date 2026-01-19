@@ -35,7 +35,7 @@ utils/                  # Functional modules
 - utils_env2.py    # Functions in the training flow 
 
 weights/                # Store the weights of the pre-training
-- pre_efficientnetv2-s.pth       
+- pre_efficientnetv2-s.pth  # Since the size of the weight file exceeds the upload size limit, we provide the download link here.   
 
 
 train_env2s_3classes_20230915.ipynb  # Model calls are made for the three-classification task
